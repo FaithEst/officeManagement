@@ -60,3 +60,7 @@ button{
 .listOne svg{
     margin-right: 10px;
 }
+th, td{
+    padding: 10px 20px;
+    border: solid 1px #999;
+}
